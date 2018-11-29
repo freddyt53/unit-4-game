@@ -1,0 +1,45 @@
+body{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA70n8PldniYLWtkUHRbMNG6l3t7Pg8DMkRbEznVzPJ1B5jpWD");
+    background-position: center;   
+    background-size: 100%;
+    
+}
+
+.jumbotron{
+    margin-top: 10px;
+    background-color: aliceblue;
+    text-align: center;
+
+}
+
+#cardHeader{
+    background-color: white
+}
+
+#cardBody1{
+    padding: 0px;
+    
+
+}
+
+#cardStyle1{
+	float: left;
+    margin: 30px 10px 10px 10px;
+    background-color: white;
+    
+}
+
+#cardStyle2{
+	float:left;
+    margin: 30px 10px 10px 10px;
+    background-color: white;
+
+}
+
+#cardStyle3{
+    float:left;
+    margin: 30px 10px 10px 10px;
+    background-color:  white;
+   
+}
+
