@@ -1,6 +1,6 @@
 
 //a game with 4 jewels and random result
-//every crystal needs to have a random number betwee 1 - 12
+//every jewel needs to have a random number betwee 1 - 12
 //a new random number should be generate every single time we win or lose
 //when clicking any jewel, it should be adding to the previous result until it equals the random result or goes over
 //if it is greater than the random result, then we increment the losses counter
